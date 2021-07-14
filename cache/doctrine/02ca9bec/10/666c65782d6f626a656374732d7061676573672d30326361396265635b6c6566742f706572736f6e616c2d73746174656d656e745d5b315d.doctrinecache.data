@@ -1,0 +1,9 @@
+1626259407
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"left/personal-statement";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:18:"PERSONAL STATEMENT";s:4:"date";s:16:"13:34 07/21/2014";s:8:"taxonomy";a:1:{s:8:"category";s:4:"left";}}s:11:"frontmatter";s:78:"title: PERSONAL STATEMENT
+date: 13:34 07/21/2014 
+taxonomy:
+    category: left";s:8:"markdown";s:535:"Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur.Donec id elit non mi porta gravida at eget metus..
+
+Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. 
+
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. ";}s:7:"storage";a:6:{s:3:"key";s:23:"left/personal-statement";s:11:"storage_key";s:23:"left/personal-statement";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1619804394;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1619804394;}}s:8:"checksum";s:32:"13f22a3ff425fb075d7f7754fc314841";}}

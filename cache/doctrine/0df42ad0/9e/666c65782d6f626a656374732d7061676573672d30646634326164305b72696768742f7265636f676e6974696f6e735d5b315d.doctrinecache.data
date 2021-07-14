@@ -1,0 +1,18 @@
+1626265878
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:18:"right/recognitions";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:12:"Recognitions";s:4:"date";s:16:"13:34 06/21/2014";s:12:"recognitions";a:2:{i:0;a:5:{s:5:"title";s:18:"Remus Logo Design.";s:4:"desc";s:45:"Internal contest. One of the three finalists.";s:5:"place";s:38:"Universidad Antonio de Nebrija. Madrid";s:8:"position";s:3:"1-3";s:9:"animation";s:6:"fadeIn";}i:1;a:5:{s:5:"title";s:26:"Vino de Toro Label Design.";s:4:"desc";s:42:"National contest. One of the 15 finalists.";s:5:"place";s:13:"Vino de Toro.";s:8:"position";s:4:"2-15";s:9:"animation";s:6:"fadeIn";}}s:8:"taxonomy";a:1:{s:8:"category";s:5:"right";}}s:11:"frontmatter";s:444:"title: Recognitions
+date: 13:34 06/21/2014 
+
+recognitions:
+    - title: Remus Logo Design.
+      desc: Internal contest. One of the three finalists.
+      place: Universidad Antonio de Nebrija. Madrid
+      position: 1-3
+      animation: fadeIn
+    - title: Vino de Toro Label Design.
+      desc: National contest. One of the 15 finalists.
+      place: Vino de Toro.
+      position: 2-15
+      animation: fadeIn  
+
+taxonomy:
+    category: right";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:18:"right/recognitions";s:11:"storage_key";s:18:"right/recognitions";s:8:"template";s:12:"recognitions";s:17:"storage_timestamp";i:1619804394;s:8:"markdown";a:1:{s:0:"";a:1:{s:12:"recognitions";i:1619804394;}}s:8:"checksum";s:32:"35f1fa5766c3a15c438681ce8efe5758";}}

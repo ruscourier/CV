@@ -1,0 +1,41 @@
+1626259509
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:18:"left/design-skills";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:9:{s:5:"title";s:13:"DESIGN SKILLS";s:4:"date";s:16:"13:34 04/21/2014";s:12:"column1_name";s:11:"01 Computer";s:17:"column1_animation";s:6:"fadeIn";s:12:"column2_name";s:12:"02 Knowledge";s:17:"column2_animation";s:6:"fadeIn";s:7:"column1";a:10:{i:0;a:2:{s:4:"name";s:15:"Adobe Photoshop";s:5:"level";i:8;}i:1;a:2:{s:4:"name";s:17:"Adobe Illustrator";s:5:"level";i:8;}i:2;a:2:{s:4:"name";s:14:"Adobe Indesign";s:5:"level";i:6;}i:3;a:2:{s:4:"name";s:11:"Adobe Flash";s:5:"level";i:7;}i:4;a:2:{s:4:"name";s:10:"HTML & CSS";s:5:"level";i:8;}i:5;a:2:{s:4:"name";s:19:"Javascript & Jquery";s:5:"level";i:3;}i:6;a:2:{s:4:"name";s:7:"AutoCad";s:5:"level";i:8;}i:7;a:2:{s:4:"name";s:5:"CATIA";s:5:"level";i:8;}i:8;a:2:{s:4:"name";s:7:"3ds Max";s:5:"level";i:3;}i:9;a:2:{s:4:"name";s:9:"Cinema 4D";s:5:"level";i:4;}}s:7:"column2";a:6:{i:0;a:1:{s:4:"name";s:14:"Grid & Layout.";}i:1;a:1:{s:4:"name";s:26:"Good sense for typography.";}i:2;a:1:{s:4:"name";s:23:"Color theory knowledge.";}i:3;a:1:{s:4:"name";s:14:"Web usability.";}i:4;a:1:{s:4:"name";s:17:"Interface Design.";}i:5;a:1:{s:4:"name";s:23:"Google Analytics & SEO.";}}s:8:"taxonomy";a:1:{s:8:"category";s:4:"left";}}s:11:"frontmatter";s:763:"title: DESIGN SKILLS
+date: 13:34 04/21/2014
+
+column1_name: 01 Computer
+column1_animation: fadeIn
+column2_name: 02 Knowledge
+column2_animation: fadeIn
+
+column1:
+  - name: Adobe Photoshop
+    level: 8
+  - name: Adobe Illustrator
+    level: 8  
+  - name: Adobe Indesign
+    level: 6  
+  - name: Adobe Flash
+    level: 7  
+  - name: "HTML & CSS"
+    level: 8 
+  - name: "Javascript & Jquery"
+    level: 3
+  - name: AutoCad
+    level: 8
+  - name: CATIA
+    level: 8 
+  - name: 3ds Max
+    level: 3
+  - name: Cinema 4D
+    level: 4           
+
+column2:
+  - name: Grid & Layout.
+  - name: Good sense for typography.
+  - name: Color theory knowledge.
+  - name: Web usability.
+  - name: Interface Design.
+  - name: Google Analytics & SEO.
+    
+taxonomy:
+    category: left";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:18:"left/design-skills";s:11:"storage_key";s:18:"left/design-skills";s:8:"template";s:6:"skills";s:17:"storage_timestamp";i:1619804394;s:8:"markdown";a:1:{s:0:"";a:1:{s:6:"skills";i:1619804394;}}s:8:"checksum";s:32:"761175cdf429b11128dfef448b16db85";}}

@@ -1,0 +1,20 @@
+1626259407
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"right/education";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:9:"EDUCATION";s:4:"date";s:16:"13:34 06/21/2014";s:9:"education";a:4:{i:0;a:3:{s:4:"date";s:38:"From September 2010 to September 2013.";s:5:"topic";s:18:"Industrial Design.";s:6:"school";s:39:"Universidad Antonio de Nebrija. Madrid.";}i:1;a:3:{s:4:"date";s:28:"From April 2010 to July 2010";s:5:"topic";s:24:"Advanced Graphic Design.";s:6:"school";s:37:"Aula Creativa, Design School. Madrid.";}i:2;a:3:{s:4:"date";s:28:"From April 2010 to July 2010";s:5:"topic";s:20:"Advanced Web Design.";s:6:"school";s:37:"Aula Creativa, Design School. Madrid.";}i:3;a:3:{s:4:"date";s:17:"From 2006 to 2010";s:5:"topic";s:32:"4 years of computer programming.";s:6:"school";s:39:"Universidad Antonio de Nebrija. Madrid.";}}s:8:"taxonomy";a:1:{s:8:"category";s:5:"right";}}s:11:"frontmatter";s:584:"title: EDUCATION
+date: 13:34 06/21/2014 
+
+education:
+  - date: From September 2010 to September 2013.
+    topic: Industrial Design.
+    school: Universidad Antonio de Nebrija. Madrid.
+  - date: From April 2010 to July 2010
+    topic: Advanced Graphic Design.
+    school: Aula Creativa, Design School. Madrid.
+  - date: From April 2010 to July 2010
+    topic: Advanced Web Design.
+    school: Aula Creativa, Design School. Madrid.
+  - date: From 2006 to 2010
+    topic: 4 years of computer programming.
+    school: Universidad Antonio de Nebrija. Madrid.
+
+taxonomy:
+    category: right";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:15:"right/education";s:11:"storage_key";s:15:"right/education";s:8:"template";s:9:"education";s:17:"storage_timestamp";i:1619804394;s:8:"markdown";a:1:{s:0:"";a:1:{s:9:"education";i:1619804394;}}s:8:"checksum";s:32:"f2f176b3f08c983673573a577deb7aae";}}

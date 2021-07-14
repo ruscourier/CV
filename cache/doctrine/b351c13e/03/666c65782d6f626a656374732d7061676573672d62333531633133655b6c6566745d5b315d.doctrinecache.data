@@ -1,0 +1,19 @@
+1626269085
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"left";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:6:"Resume";s:8:"blog_url";s:6:"resume";s:7:"sitemap";a:2:{s:10:"changefreq";s:7:"monthly";s:8:"priority";d:1.03;}s:7:"content";a:4:{s:5:"items";s:14:"@self.children";s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:5:"limit";i:5;s:10:"pagination";b:1;}s:4:"feed";a:2:{s:11:"description";s:18:"Resume Description";s:5:"limit";i:10;}}s:11:"frontmatter";s:256:"title: Resume
+blog_url: resume
+
+sitemap:
+    changefreq: monthly
+    priority: 1.03
+
+content:
+    items: @self.children
+    order:
+        by: date
+        dir: desc
+    limit: 5
+    pagination: true
+
+feed:
+    description: Resume Description
+    limit: 10";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:4:"left";s:11:"storage_key";s:4:"left";s:8:"template";s:6:"resume";s:17:"storage_timestamp";i:1619804394;s:8:"markdown";a:1:{s:0:"";a:1:{s:6:"resume";i:1619804394;}}s:8:"children";a:4:{s:13:"design-skills";b:0;s:15:"language-skills";b:0;s:15:"my-specialities";b:0;s:18:"personal-statement";b:0;}s:8:"checksum";s:32:"f9837a559f2e9c0a665f78956886c57b";}}

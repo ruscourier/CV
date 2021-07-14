@@ -1,0 +1,33 @@
+1626259407
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:27:"right/hobbies-and-interests";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:19:"Hobbies & Interests";s:4:"date";s:16:"13:34 02/21/2014";s:9:"interests";a:8:{i:0;a:3:{s:4:"icon";s:6:"camera";s:8:"activity";s:11:"Photography";s:9:"animation";s:6:"fadeIn";}i:1;a:3:{s:4:"icon";s:9:"mountains";s:8:"activity";s:6:"Hiking";s:9:"animation";s:6:"fadeIn";}i:2;a:3:{s:4:"icon";s:4:"book";s:8:"activity";s:7:"Reading";s:9:"animation";s:6:"fadeIn";}i:3;a:3:{s:4:"icon";s:5:"music";s:8:"activity";s:5:"Music";s:9:"animation";s:6:"fadeIn";}i:4;a:3:{s:4:"icon";s:5:"trees";s:8:"activity";s:7:"Walking";s:9:"animation";s:6:"fadeIn";}i:5;a:3:{s:4:"icon";s:3:"paw";s:8:"activity";s:4:"Dogs";s:9:"animation";s:6:"fadeIn";}i:6;a:3:{s:4:"icon";s:7:"die-six";s:8:"activity";s:5:"Games";s:9:"animation";s:6:"fadeIn";}i:7;a:3:{s:4:"icon";s:6:"ticket";s:8:"activity";s:7:"Theatre";s:9:"animation";s:6:"fadeIn";}}s:8:"taxonomy";a:1:{s:8:"category";s:5:"right";}}s:11:"frontmatter";s:644:"title: Hobbies & Interests
+date: 13:34 02/21/2014 
+
+interests:
+    - icon: camera
+      activity: Photography
+      animation: fadeIn
+    - icon: mountains
+      activity: Hiking
+      animation: fadeIn  
+    - icon: book
+      activity: Reading
+      animation: fadeIn   
+    - icon: music
+      activity: Music
+      animation: fadeIn   
+    - icon: trees
+      activity: Walking
+      animation: fadeIn    
+    - icon: paw
+      activity: Dogs
+      animation: fadeIn    
+    - icon: die-six
+      activity: Games
+      animation: fadeIn  
+    - icon: ticket
+      activity: Theatre
+      animation: fadeIn   
+
+
+taxonomy:
+    category: right";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:27:"right/hobbies-and-interests";s:11:"storage_key";s:27:"right/hobbies-and-interests";s:8:"template";s:9:"interests";s:17:"storage_timestamp";i:1619804394;s:8:"markdown";a:1:{s:0:"";a:1:{s:9:"interests";i:1619804394;}}s:8:"checksum";s:32:"d3c5eccf14e8409136c29a618ae99e65";}}

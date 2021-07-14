@@ -1,0 +1,35 @@
+title: 'A. Topolyanskiy'
+default_lang: en
+author:
+  name: 'Andrey Topolyanskiy'
+  email: ruscourier@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'My CV Site'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
+description: 'I AM A {DEVOPS ENGINEER}...'
+website: www.topolyanskiy.ru
+address:
+  -
+    line: '40 Bar RavHai David st.'
+  -
+    line: 'appt. 8'
+  -
+    line: 'Israel, Haifa 3559208'
+contact:
+  -
+    line: ruscourier@gmail.com
+  -
+    line: '+972 52 683-0676'
+  -
+    line: '@ruscourier'

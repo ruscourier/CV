@@ -1,0 +1,15 @@
+1626259509
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:20:"left/my-specialities";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:15:"MY SPECIALITIES";s:4:"date";s:16:"13:34 05/21/2014";s:12:"specialities";a:3:{i:0;a:3:{s:4:"icon";s:9:"lightbulb";s:4:"text";s:11:"Logo Design";s:9:"animation";s:10:"fadeInDown";}i:1;a:3:{s:4:"icon";s:13:"page-multiple";s:4:"text";s:8:"Branding";s:9:"animation";s:8:"fadeInUp";}i:2;a:3:{s:4:"icon";s:7:"results";s:4:"text";s:18:"Minimal Web Design";s:9:"animation";s:10:"fadeInLeft";}}s:8:"taxonomy";a:1:{s:8:"category";s:4:"left";}}s:11:"frontmatter";s:316:"title: MY SPECIALITIES
+date: 13:34 05/21/2014 
+specialities:
+    - icon: lightbulb
+      text: Logo Design
+      animation: fadeInDown
+    - icon: page-multiple
+      text: Branding 
+      animation: fadeInUp
+    - icon: results
+      text: Minimal Web Design
+      animation: fadeInLeft
+taxonomy:
+    category: left";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:20:"left/my-specialities";s:11:"storage_key";s:20:"left/my-specialities";s:8:"template";s:7:"special";s:17:"storage_timestamp";i:1619804394;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"special";i:1619804394;}}s:8:"checksum";s:32:"427d0337016a52948bc205dfe1301cc5";}}

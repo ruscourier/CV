@@ -1,0 +1,11 @@
+state: enabled
+email: ruscourier@gmail.com
+fullname: 'Andrey Toplolyanskiy'
+title: admin
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$zMfzCU7.PyOy9RH1IGu9F.SoDpJ0/HWww7zbIyL6fGDzPf9G0tqBu

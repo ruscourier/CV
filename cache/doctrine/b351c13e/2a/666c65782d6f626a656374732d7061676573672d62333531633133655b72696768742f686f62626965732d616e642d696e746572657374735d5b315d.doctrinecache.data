@@ -1,0 +1,21 @@
+1626269085
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:27:"right/hobbies-and-interests";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:19:"Hobbies & Interests";s:4:"date";s:16:"13:34 02/21/2014";s:9:"interests";a:4:{i:0;a:3:{s:4:"icon";s:6:"laptop";s:8:"activity";s:9:"Computers";s:9:"animation";s:6:"fadeIn";}i:1;a:3:{s:4:"icon";s:4:"book";s:8:"activity";s:7:"Reading";s:9:"animation";s:6:"fadeIn";}i:2;a:3:{s:4:"icon";s:5:"music";s:8:"activity";s:5:"Music";s:9:"animation";s:6:"fadeIn";}i:3;a:3:{s:4:"icon";s:3:"paw";s:8:"activity";s:4:"Dogs";s:9:"animation";s:6:"fadeIn";}}s:8:"taxonomy";a:1:{s:8:"category";s:5:"right";}}s:11:"frontmatter";s:364:"title: Hobbies & Interests
+date: 13:34 02/21/2014
+
+interests:
+    - icon: laptop
+      activity: Computers
+      animation: fadeIn
+    - icon: book
+      activity: Reading
+      animation: fadeIn   
+    - icon: music
+      activity: Music
+      animation: fadeIn      
+    - icon: paw
+      activity: Dogs
+      animation: fadeIn   
+
+
+taxonomy:
+    category: right";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:27:"right/hobbies-and-interests";s:11:"storage_key";s:27:"right/hobbies-and-interests";s:8:"template";s:9:"interests";s:17:"storage_timestamp";i:1626265690;s:8:"markdown";a:1:{s:0:"";a:1:{s:9:"interests";i:1626265690;}}s:8:"checksum";s:32:"e63525474c7c379065b9421d78e35753";}}

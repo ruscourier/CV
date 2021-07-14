@@ -1,0 +1,18 @@
+1626259377
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:16:"right/experience";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:10:"EXPERIENCE";s:4:"date";s:16:"13:34 06/21/2014";s:10:"experience";a:2:{i:0;a:5:{s:4:"date";s:17:"From 2013 to 2014";s:4:"role";s:13:"Art Director.";s:7:"company";s:21:"Distrito 01 (d01 .es)";s:5:"years";i:2;s:9:"animation";s:6:"fadeIn";}i:1;a:5:{s:4:"date";s:22:"From 2009 to July 2014";s:4:"role";s:15:"Graphics & Web.";s:7:"company";s:10:"Freelance.";s:5:"years";i:6;s:9:"animation";s:6:"fadeIn";}}s:8:"taxonomy";a:1:{s:8:"category";s:5:"right";}}s:11:"frontmatter";s:325:"title: EXPERIENCE
+date: 13:34 06/21/2014 
+
+experience:
+  - date: From 2013 to 2014
+    role: Art Director.
+    company: Distrito 01 (d01 .es)
+    years: 2
+    animation: fadeIn
+  - date: From 2009 to July 2014
+    role: Graphics & Web.
+    company: Freelance.
+    years: 6
+    animation: fadeIn
+
+taxonomy:
+    category: right";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:16:"right/experience";s:11:"storage_key";s:16:"right/experience";s:8:"template";s:10:"experience";s:17:"storage_timestamp";i:1619804394;s:8:"markdown";a:1:{s:0:"";a:1:{s:10:"experience";i:1619804394;}}s:8:"checksum";s:32:"a1a0e4a5735a62d73851d4d588cbbd8e";}}
