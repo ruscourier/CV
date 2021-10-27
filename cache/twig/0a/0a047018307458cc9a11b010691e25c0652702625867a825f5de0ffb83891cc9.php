@@ -30,7 +30,7 @@ class __TwigTemplate_da19a29b199f8d18c65d8b495e5c74253c5cb894be8f385b8521f6b6cdb
         echo "<div class=\"row footer\">
    <div class=\"large-12 small-12 medium-12 text-center \">
     <div class=\"border text-center \"></div>
-    <p class=\"copyright\">Design by <a href=\"https://www.behance.net/fbaezb\">Fernando Baez</a>. Coding & Implementation by <a href=\"http://www.getgrav.org\">GRAV</a> team.</p>
+    <p class=\"copyright\">Design by Fernando Baez. Implementation by www.getgrav.org team.</p>
    </div>
 </div>
 ";
@@ -59,7 +59,7 @@ class __TwigTemplate_da19a29b199f8d18c65d8b495e5c74253c5cb894be8f385b8521f6b6cdb
         return new Source("<div class=\"row footer\">
    <div class=\"large-12 small-12 medium-12 text-center \">
     <div class=\"border text-center \"></div>
-    <p class=\"copyright\">Design by <a href=\"https://www.behance.net/fbaezb\">Fernando Baez</a>. Coding & Implementation by <a href=\"http://www.getgrav.org\">GRAV</a> team.</p>
+    <p class=\"copyright\">Design by Fernando Baez. Implementation by www.getgrav.org team.</p>
    </div>
 </div>
 ", "partials/footer.html.twig", "/Users/ruscourier/Documents/Projects/CV/personal/user/themes/resume/templates/partials/footer.html.twig");

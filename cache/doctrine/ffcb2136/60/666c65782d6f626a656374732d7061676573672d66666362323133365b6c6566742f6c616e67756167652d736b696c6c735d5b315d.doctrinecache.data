@@ -1,0 +1,20 @@
+1626693837
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:20:"left/language-skills";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:15:"LANGUAGE SKILLS";s:4:"date";s:16:"15:00 01/01/2011";s:9:"languages";a:3:{i:0;a:4:{s:4:"name";s:7:"Russian";s:10:"level_name";s:15:"Mother Language";s:5:"level";i:100;s:9:"animation";s:8:"bounceIn";}i:1;a:4:{s:4:"name";s:7:"English";s:10:"level_name";s:14:"Advanced Level";s:5:"level";i:65;s:9:"animation";s:8:"bounceIn";}i:2;a:4:{s:4:"name";s:6:"Hebrew";s:10:"level_name";s:11:"Basic Level";s:5:"level";i:35;s:9:"animation";s:8:"bounceIn";}}s:8:"taxonomy";a:1:{s:8:"category";s:4:"left";}}s:11:"frontmatter";s:350:"title: LANGUAGE SKILLS
+date: 15:00 01/01/2011
+
+languages:
+  - name: Russian
+    level_name: Mother Language
+    level: 100
+    animation: bounceIn
+  - name: English
+    level_name: Advanced Level
+    level: 65  
+    animation: bounceIn
+  - name: Hebrew
+    level_name: Basic Level
+    level: 35  
+    animation: bounceIn
+
+taxonomy:
+    category: left";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:20:"left/language-skills";s:11:"storage_key";s:20:"left/language-skills";s:8:"template";s:10:"langskills";s:17:"storage_timestamp";i:1626275076;s:8:"markdown";a:1:{s:0:"";a:1:{s:10:"langskills";i:1626275076;}}s:8:"checksum";s:32:"197dccb6189a91bd697f3c737e03bcb7";}}

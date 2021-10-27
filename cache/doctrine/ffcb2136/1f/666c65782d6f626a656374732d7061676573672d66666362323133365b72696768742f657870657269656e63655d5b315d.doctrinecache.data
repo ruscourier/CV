@@ -1,0 +1,29 @@
+1626693837
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:16:"right/experience";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:15:"WORK EXPERIENCE";s:4:"date";s:16:"13:34 06/21/2014";s:10:"experience";a:4:{i:0;a:5:{s:4:"date";s:20:"From 2020 to present";s:4:"role";s:25:"IT consultant (Freelance)";s:7:"company";s:10:"Freelance.";s:5:"years";i:1;s:9:"animation";s:6:"fadeIn";}i:1;a:5:{s:4:"date";s:17:"From 2018 to 2020";s:4:"role";s:15:"System Engineer";s:7:"company";s:19:"Ksystem LTD, Israel";s:5:"years";i:2;s:9:"animation";s:6:"fadeIn";}i:2;a:5:{s:4:"date";s:17:"From 2014 to 2018";s:4:"role";s:3:"CTO";s:7:"company";s:23:"Radiostrana LTD, Russia";s:5:"years";i:4;s:9:"animation";s:6:"fadeIn";}i:3;a:5:{s:4:"date";s:17:"From 2013 to 2014";s:4:"role";s:15:"System Engineer";s:7:"company";s:28:"Russian Geographical Society";s:5:"years";i:2;s:9:"animation";s:6:"fadeIn";}}s:8:"taxonomy";a:1:{s:8:"category";s:5:"right";}}s:11:"frontmatter";s:583:"title: WORK EXPERIENCE
+date: 13:34 06/21/2014
+
+experience:
+  - date: From 2020 to present
+    role: IT consultant (Freelance)
+    company: Freelance.
+    years: 1
+    animation: fadeIn
+  - date: From 2018 to 2020
+    role: System Engineer
+    company: Ksystem LTD, Israel
+    years: 2
+    animation: fadeIn
+  - date: From 2014 to 2018
+    role: CTO
+    company: Radiostrana LTD, Russia
+    years: 4
+    animation: fadeIn
+  - date: From 2013 to 2014
+    role: System Engineer
+    company: Russian Geographical Society
+    years: 2
+    animation: fadeIn
+
+
+taxonomy:
+    category: right";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:16:"right/experience";s:11:"storage_key";s:16:"right/experience";s:8:"template";s:10:"experience";s:17:"storage_timestamp";i:1626270122;s:8:"markdown";a:1:{s:0:"";a:1:{s:10:"experience";i:1626270122;}}s:8:"checksum";s:32:"59884b40da1fa63aaffee791e905c669";}}

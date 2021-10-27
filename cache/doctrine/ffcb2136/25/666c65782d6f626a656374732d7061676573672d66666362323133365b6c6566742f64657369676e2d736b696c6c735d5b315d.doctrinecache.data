@@ -1,0 +1,42 @@
+1626693837
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:18:"left/design-skills";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:9:{s:5:"title";s:11:"WORK SKILLS";s:4:"date";s:16:"13:34 04/21/2014";s:12:"column1_name";s:14:"01 Hard skills";s:17:"column1_animation";s:6:"fadeIn";s:12:"column2_name";s:14:"02 Soft skills";s:17:"column2_animation";s:6:"fadeIn";s:7:"column1";a:11:{i:0;a:2:{s:4:"name";s:15:"Win/MacOS/Linux";s:5:"level";i:8;}i:1;a:2:{s:4:"name";s:12:"System admin";s:5:"level";i:8;}i:2;a:2:{s:4:"name";s:13:"Network admin";s:5:"level";i:6;}i:3;a:2:{s:4:"name";s:15:"DevOps practice";s:5:"level";i:7;}i:4;a:2:{s:4:"name";s:17:"DB administration";s:5:"level";i:4;}i:5;a:2:{s:4:"name";s:10:"AWS/clouds";s:5:"level";i:5;}i:6;a:2:{s:4:"name";s:7:"GIT/TFS";s:5:"level";i:6;}i:7;a:2:{s:4:"name";s:12:"Heroku stack";s:5:"level";i:7;}i:8;a:2:{s:4:"name";s:15:"Jenkins/Ansible";s:5:"level";i:8;}i:9;a:2:{s:4:"name";s:10:"Docker/K8S";s:5:"level";i:7;}i:10;a:2:{s:4:"name";s:6:"VMware";s:5:"level";i:6;}}s:7:"column2";a:5:{i:0;a:1:{s:4:"name";s:30:"Excellent interpersonal skills";}i:1;a:1:{s:4:"name";s:21:"Work's under pressure";}i:2;a:1:{s:4:"name";s:23:"Responsible personality";}i:3;a:1:{s:4:"name";s:16:"Highly motivated";}i:4;a:1:{s:4:"name";s:11:"Team player";}}s:8:"taxonomy";a:1:{s:8:"category";s:4:"left";}}s:11:"frontmatter";s:772:"title: WORK SKILLS
+date: 13:34 04/21/2014
+
+column1_name: 01 Hard skills
+column1_animation: fadeIn
+column2_name: 02 Soft skills
+column2_animation: fadeIn
+
+column1:
+  - name: Win/MacOS/Linux
+    level: 8
+  - name: System admin
+    level: 8  
+  - name: Network admin
+    level: 6  
+  - name: DevOps practice
+    level: 7  
+  - name: DB administration
+    level: 4  
+  - name: AWS/clouds
+    level: 5
+  - name: GIT/TFS
+    level: 6
+  - name: Heroku stack
+    level: 7
+  - name: Jenkins/Ansible
+    level: 8
+  - name: Docker/K8S
+    level: 7
+  - name: VMware
+    level: 6          
+
+column2:
+  - name: Excellent interpersonal skills
+  - name: Work's under pressure
+  - name: Responsible personality
+  - name: Highly motivated
+  - name: Team player
+
+taxonomy:
+    category: left";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:18:"left/design-skills";s:11:"storage_key";s:18:"left/design-skills";s:8:"template";s:6:"skills";s:17:"storage_timestamp";i:1626265126;s:8:"markdown";a:1:{s:0:"";a:1:{s:6:"skills";i:1626265126;}}s:8:"checksum";s:32:"d2b8a4267b99c760c2c95ea194cd7808";}}

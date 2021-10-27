@@ -1,0 +1,23 @@
+1626693837
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"right/education";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:9:"EDUCATION";s:4:"date";s:16:"13:34 06/21/2014";s:9:"education";a:5:{i:0;a:3:{s:4:"date";s:27:"From August 2020 to present";s:5:"topic";s:58:"UDEMY certification courses (Docker/Ansible/Terraform/K8S)";s:6:"school";s:16:"Online education";}i:1;a:3:{s:4:"date";s:11:"August 2017";s:5:"topic";s:27:"MTCNA certification courses";s:6:"school";s:22:"Mikrotikls SIA, Latvia";}i:2;a:3:{s:4:"date";s:30:"From May 1989 to November 1989";s:5:"topic";s:19:"Aircraft technician";s:6:"school";s:45:"Military Technical Aviation Facility, Germany";}i:3;a:3:{s:4:"date";s:32:"From Septenber 1986 to June 1987";s:5:"topic";s:37:"Practical Engineer (Computer science)";s:6:"school";s:49:"Professional Technical College 59, Moscow, Russia";}i:4;a:3:{s:4:"date";s:31:"From Septenber 1975 to May 1986";s:5:"topic";s:49:"Full matriculation certificate, general education";s:6:"school";s:31:"High School 892, Moscow, Russia";}}s:8:"taxonomy";a:1:{s:8:"category";s:5:"right";}}s:11:"frontmatter";s:746:"title: EDUCATION
+date: 13:34 06/21/2014
+
+education:
+  - date: From August 2020 to present
+    topic: UDEMY certification courses (Docker/Ansible/Terraform/K8S)
+    school: Online education
+  - date: August 2017
+    topic: MTCNA certification courses
+    school: Mikrotikls SIA, Latvia
+  - date: From May 1989 to November 1989
+    topic: Aircraft technician
+    school: Military Technical Aviation Facility, Germany
+  - date: From Septenber 1986 to June 1987
+    topic: Practical Engineer (Computer science)
+    school: Professional Technical College 59, Moscow, Russia
+  - date: From Septenber 1975 to May 1986
+    topic: Full matriculation certificate, general education
+    school: High School 892, Moscow, Russia
+
+taxonomy:
+    category: right";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:15:"right/education";s:11:"storage_key";s:15:"right/education";s:8:"template";s:9:"education";s:17:"storage_timestamp";i:1626270350;s:8:"markdown";a:1:{s:0:"";a:1:{s:9:"education";i:1626270350;}}s:8:"checksum";s:32:"dca475140219e2f69344f15d589cdda8";}}
