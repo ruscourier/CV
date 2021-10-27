@@ -14,8 +14,10 @@ column1:
     level: 8
   - name: Clouds (AWS)
     level: 5
-  - name: Docker & K8S
+  - name: Docker
     level: 6
+  - name: Kubernetes
+    level: 4    
   - name: Databases
     level: 5
   - name: Terraform
