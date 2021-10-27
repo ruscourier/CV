@@ -10,19 +10,17 @@ column2_animation: fadeIn
 column1:
   - name: Operating systems
     level: 8
-  - name: Netvorks
-    level: 8  
-  - name: DevOps practice
-    level: 6  
+  - name: Networks & LAN
+    level: 8
   - name: Clouds (AWS)
-    level: 5  
-  - name: Docker/K8S
-    level: 6  
-  - name: Heroku
     level: 5
-  - name: Terraform/Ansible
+  - name: Docker & K8S
+    level: 6
+  - name: Databases
     level: 5
-  - name: Jenkins
+  - name: Terraform & Ansible
+    level: 5
+  - name: Jenkins & Heroku
     level: 6
   - name: VCS (GIT/TFS)
     level: 7
