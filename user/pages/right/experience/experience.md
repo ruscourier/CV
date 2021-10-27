@@ -3,9 +3,9 @@ title: WORK EXPERIENCE
 date: 13:34 06/21/2014
 
 experience:
-  - date: From 2020 to present
-    role: IT consultant (Freelance)
-    company: Freelance.
+  - date: Since 2021 year
+    role: Looking for DevOps
+    company: engineer position
     years: 1
     animation: fadeIn
   - date: From 2018 to 2020
