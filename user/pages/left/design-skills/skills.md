@@ -8,28 +8,26 @@ column2_name: 02 Soft skills
 column2_animation: fadeIn
 
 column1:
-  - name: Win/MacOS/Linux
+  - name: Operating systems
     level: 8
-  - name: System admin
+  - name: Netvorks
     level: 8  
-  - name: Network admin
-    level: 6  
   - name: DevOps practice
-    level: 7  
-  - name: DB administration
-    level: 4  
-  - name: AWS/clouds
-    level: 5
-  - name: GIT/TFS
-    level: 6
-  - name: Heroku stack
-    level: 7
-  - name: Jenkins/Ansible
-    level: 8
+    level: 6  
+  - name: Clouds (AWS)
+    level: 5  
   - name: Docker/K8S
+    level: 6  
+  - name: Heroku
+    level: 5
+  - name: Terraform/Ansible
+    level: 5
+  - name: Jenkins
+    level: 6
+  - name: VCS (GIT/TFS)
     level: 7
   - name: VMware
-    level: 6          
+    level: 8          
 
 column2:
   - name: Excellent interpersonal skills
