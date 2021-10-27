@@ -23,7 +23,11 @@ experience:
     company: Russian Geographical Society
     years: 2
     animation: fadeIn
-
+  - date: From 2008 to 2013
+    role: System Engineer
+    company: United Russia political party
+    years: 5
+    animation: fadeIn
 
 taxonomy:
     category: right
