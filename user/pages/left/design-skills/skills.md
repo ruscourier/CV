@@ -25,6 +25,8 @@ column1:
   - name: VCS (GIT/TFS)
     level: 7
   - name: VMware
+    level: 8
+  - name: VMware
     level: 8          
 
 column2:
