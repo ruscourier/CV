@@ -8,7 +8,7 @@ languages:
     level: 100
     animation: bounceIn
   - name: English
-    level_name: Upper intermediate
+    level_name: Intermediate
     level: 65  
     animation: bounceIn
   - name: Hebrew

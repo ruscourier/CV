@@ -18,16 +18,18 @@ column1:
     level: 6
   - name: Databases
     level: 5
-  - name: Terraform & Ansible
+  - name: Terraform
+    level: 4
+  - name: Ansible
     level: 5
-  - name: Jenkins & Heroku
+  - name: Jenkins
     level: 6
+  - name: Heroku stack
+    level: 7
   - name: VCS (GIT/TFS)
     level: 7
   - name: VMware
-    level: 8
-  - name: VMware
-    level: 8          
+    level: 7          
 
 column2:
   - name: Excellent interpersonal skills
