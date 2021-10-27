@@ -17,7 +17,7 @@ redirects: null
 routes: null
 blog:
   route: /blog
-description: 'I am looking {DEVOPS} position'
+description: 'I am looking {DEVOPS} position...'
 website: www.topolyanskiy.ru
 address:
   -
