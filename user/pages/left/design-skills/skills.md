@@ -28,6 +28,8 @@ column1:
     level: 6
   - name: Heroku stack
     level: 7
+  - name: Bash & Python
+    level: 5
   - name: VCS (GIT/TFS)
     level: 7
   - name: VMware
