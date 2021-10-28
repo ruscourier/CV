@@ -1,6 +1,6 @@
 ---
 title: EDUCATION
-date: 13:34 06/21/2014
+date: 13:34 04/21/2014
 
 education:
   - date: From August 2020 to present
